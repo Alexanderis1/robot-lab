@@ -16,16 +16,7 @@ theme:
     - content.tooltips
   language: it
   palette:
-    - scheme: default
-      toggle: 
-        icon: material/toggle-switch-off-outline
-        name: Dark Mode
-      primary: teal
-      accent: purple
     - scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Light Mode
       primary: teal
       accent: lime
 extra:
