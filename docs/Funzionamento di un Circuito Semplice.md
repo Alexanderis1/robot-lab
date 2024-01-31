@@ -24,12 +24,11 @@ La **Corrente** è colei che ultimamente alimenta i nostri dispositivi disposti 
 ---
 
 ## Circuito Chiuso e Circuito Aperto
-Questo è un esempio di notazione grafica dei componenti in gioco. Come è possibile notare questo circuito è un cerchio chiuso, e il cavo che parte dal generatore di tensione da un lato, ritorna dall'altro lato.
+Questo è un esempio di notazione grafica dei componenti in gioco. Come è possibile notare questo circuito è un cerchio chiuso, e il cavo che parte dal generatore di tensione da un lato, ritorna dall'altro lato.![Esempio di Circuito](media/c1.JPG){ align=left, width="300" } 
 
 Infatti i generatori di tensione hanno un comportamento simile a dei magneti, generano un flusso di elettroni verso un lato che deve riaffluire dall'altro lato. Anche perchè se provassimo ad immaginare un punto in cui il filo si interrompesse gli elettroni dove andrebbero? Uscirebbero dal cavo e andrebbero a spasso ad alimentare il mondo?
 
 Possiamo quindi dire che la corrente circola in un circuito se e solo se il circuito è chiuso, nel momento in cui anche per un millisecondo il circuito si aprisse, gli elettroni si interromperebbero immediatamente e il generatore di tensione non svolgerebbe più il suo ruolo fino a quando il circuito non ritornerà ad essere chiuso.
-![Esempio di Circuito](media/c1.JPG){ align=left, width="300" } 
 
 ![Esempio di Motore](media/gif1.gif){ align=right } Se vogliamo introdurre un componente che possa essere alimentato dal nostro circuito possiamo ad esempio inserire un semplice motore DC che inizierebbe ad entrare in funzione appena aggiunto al circuito, se volessimo spegnere il motore senza rimuoverlo ci basterebbe far smettere di passare gli elettroni lungo il circuito.
 
