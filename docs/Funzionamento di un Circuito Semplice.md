@@ -24,7 +24,7 @@ La **Corrente** è colei che ultimamente alimenta i nostri dispositivi disposti 
 ---
 
 ## Circuito Chiuso e Circuito Aperto
-Questo è un esempio di notazione grafica dei componenti in gioco. Come è possibile notare questo circuito è un cerchio chiuso, e il cavo che parte dal generatore di tensione da un lato, ritorna dall'altro lato.![Esempio di Circuito](media/c1.JPG){ align=left, width="300" } 
+Questo è un esempio di notazione grafica dei componenti in gioco. Come è possibile notare questo circuito è un cerchio chiuso, e il cavo che parte dal generatore di tensione da un lato, ritorna dall'altro lato.![Esempio di Circuito](media/c1.JPG){ align=left} 
 
 Infatti i generatori di tensione hanno un comportamento simile a dei magneti, generano un flusso di elettroni verso un lato che deve riaffluire dall'altro lato. Anche perchè se provassimo ad immaginare un punto in cui il filo si interrompesse gli elettroni dove andrebbero? Uscirebbero dal cavo e andrebbero a spasso ad alimentare il mondo?
 
