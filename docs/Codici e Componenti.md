@@ -4,8 +4,8 @@
 
 ## Risorse
 
-[Download IDE Arduino](https://www.arduino.cc/en/software)
-[Simulatore Circuiti Elettrici](https://www.falstad.com/circuit/)
+- [Download IDE Arduino](https://www.arduino.cc/en/software)
+- [Simulatore Circuiti Elettrici](https://www.falstad.com/circuit/)
 
 ## Funzioni Base
 
@@ -26,7 +26,7 @@ void loop() {
 ```
 ## Componenti
 
-![Motore](media/motor.PNG){ align=left} Schema collegamento cavi Servo-Motore
+![Motore](media/motor.png){ align=left} Schema collegamento cavi Servo-Motore
 - Giallo/Arancione: Segnale
 - Rosso: Vin
 - Rosso Scuro/Nero: Vout/GND
