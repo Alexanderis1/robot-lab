@@ -27,6 +27,7 @@ void loop() {
 ## Componenti
 
 ![Motore](media/motor.png){ align=left} Schema collegamento cavi Servo-Motore
+
 - Giallo/Arancione: Segnale
 - Rosso: Vin
 - Rosso Scuro/Nero: Vout/GND
