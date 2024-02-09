@@ -22,6 +22,11 @@ Applicazione dei principi della Robotica ai prototipi Arduino
 
 ## Schedule
 
+!!! note "Schedule Update"
+
+    Il Laboratorio è momentaneamente sospeso, le lezioni riprenderanno regolarmente a partire dal 07/03.
+
+
     Corso A: Giovedì 14:00-16:00
     
     Corso B: -coming soon-
